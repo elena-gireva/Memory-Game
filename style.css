@@ -9,7 +9,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: #79ac6a;
-  background-image: url("images/background.webp");
+  background-image: url("background.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
